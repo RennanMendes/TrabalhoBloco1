@@ -40,10 +40,16 @@ public class Principal {
 		System.out.println("\nA 3° pessoa na lista de cadastro é: "+pessoaCis.get(2));
 		System.out.println("É trans? ");
 		tteste.confirmacao("Não");
+		pteste2.informativoTrans();
+		pteste2.informativoGenitalia();
 		
 		System.out.println("\nA 7° pessoa na lista de cadastro é: "+pessoaCis.get(6));
 		System.out.println("É trans? ");
-		tteste.confirmacao(1);
+		tteste1.confirmacao(1);
+		tteste1.saudeTrans();
+		tteste1.informativoGenitalia();
+		
+		
 			}		
 		
 	}

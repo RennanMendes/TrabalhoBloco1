@@ -15,18 +15,7 @@ public class Pessoas implements FormularioSaude {
 		this.cis = cis;
 		this.genital = genital;
 	}
-	
-/*	public Pessoas(String nome,  String email, double idade, boolean cis, boolean genital) {
-		super();
-		this.nome = nome;
-		this.email = email;
-		this.idade= idade;
-		this.cis = cis;
-		this.genital = genital;
-	}
-*/
-
-	
+		
 
 	public String getNome() {
 		return nome;

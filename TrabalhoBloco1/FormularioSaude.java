@@ -7,5 +7,5 @@ public interface FormularioSaude {
 	public abstract String email(String email);
 	public abstract boolean genitalia(boolean genital);
 	public abstract boolean cis(boolean cis);
-	//public abstract void hormonio(boolean hormonio);
+
 }

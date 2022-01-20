@@ -3,14 +3,11 @@ package TrabalhoBloco1;
 import java.util.ArrayList;
 import java.util.*;
 
-//import java.util.Scanner;
-	
+
 
 public class Principal {
 
 	public static void main(String[] args) {
-	
-		//(String nome, String email, int idade, boolean cis, boolean genital, boolean hormonio)
 		
 		
 		Cis pteste = new Cis("\nMurilo", "murilo@generation.com", 27, true, true);
